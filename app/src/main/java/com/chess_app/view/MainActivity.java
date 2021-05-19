@@ -1,8 +1,10 @@
-package com.example.chess_app;
+package com.chess_app.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.chess_app.R;
 
 public class MainActivity extends AppCompatActivity {
 
