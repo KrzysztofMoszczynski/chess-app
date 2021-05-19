@@ -1,4 +1,4 @@
-package com.chess_app.view;
+package com.kmkw.chess_app.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
