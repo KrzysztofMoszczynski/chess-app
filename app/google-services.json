@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "216279648033",
+    "project_id": "check-your-mate",
+    "storage_bucket": "check-your-mate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216279648033:android:d2503ac56bb9118afb2060",
+        "android_client_info": {
+          "package_name": "com.kmkw.chess_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216279648033-jb3th7teqdm86co89ci91hg9a3nrcmek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIlVFJtiLvLC3vJYux5zbnZNIQKC6v-Gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216279648033-jb3th7teqdm86co89ci91hg9a3nrcmek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
